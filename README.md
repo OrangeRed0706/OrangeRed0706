@@ -1,6 +1,6 @@
 <br clear="both">
 <br />
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=OrangeRed0706.OrangeRed0706&"  />
 I'm a .NET Full-Stack Developer from Taiwan
 
 **About me**
@@ -59,10 +59,6 @@ I'm a .NET Full-Stack Developer from Taiwan
 ###
 
 <img src="https://raw.githubusercontent.com/OrangeRed0706/OrangeRed0706/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=OrangeRed0706.OrangeRed0706&"  />
 
 ###
 
