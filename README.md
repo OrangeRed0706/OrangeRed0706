@@ -1,13 +1,18 @@
 <br clear="both">
+<br />
 
-<h2 align="left">Hi 👋! My name is Lynn and I'm a .NET Fullstack Developer from Taiwan</h2>
+I'm a .NET Full-Stack Developer from Taiwan
 
-###
+**About me**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OrangeRed0706&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OrangeRed0706&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+- 👨‍💻 .NET Practitioner: I navigate the realms of .NET and full-stack development with a focus on practical and sustainable solutions.
+
+- 🌱 Learner & Community Participant: Actively engaging in tech communities and seminars, I believe in learning through sharing and collaboration.
+
+- 🧩 Efficiency Enthusiast: I appreciate the art of making things simpler through automation, always seeking smarter ways to approach tasks.
+
+- 💬 Ask me about anything
+
 
 ###
 
@@ -61,6 +66,9 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OrangeRed0706&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OrangeRed0706&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
