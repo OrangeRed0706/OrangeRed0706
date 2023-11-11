@@ -1,8 +1,7 @@
 <br clear="both">
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=OrangeRed0706.OrangeRed0706&"  />
 
 ## Hi 👋! My name is Lynn and I'm a .NET Full-Stack Developer from Taiwan
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=OrangeRed0706.OrangeRed0706&"  />
 **About me**
 
 - 👨‍💻 .NET Practitioner: I navigate the realms of .NET and full-stack development with a focus on practical and sustainable solutions.
